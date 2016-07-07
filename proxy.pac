@@ -4,7 +4,7 @@ var proxyDomains = [
     'golang.org',
     'ajax.googleapis.com',
     's.ytimg.com',
-		'.github.com'
+    '.github.com'
 ];
 
 
