@@ -6,7 +6,8 @@ var proxyDomains = [
     's.ytimg.com',
     '.github.com',
     '.facebook.',
-    '.gravatar.'
+    '.gravatar.',
+    '.slideshare.'
 ];
 
 
