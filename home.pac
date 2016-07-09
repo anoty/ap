@@ -5,7 +5,8 @@ var proxyDomains = [
     'ajax.googleapis.com',
     's.ytimg.com',
     '.github.com',
-    '.facebook.'
+    '.facebook.',
+    '.gravatar.'
 ];
 
 
