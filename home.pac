@@ -8,7 +8,8 @@ var proxyDomains = [
     '.facebook.',
     '.gravatar.',
     '.slideshare.',
-    '.gitbook.'
+    '.gitbook.',
+    '.wikipedia.'
 ];
 
 
