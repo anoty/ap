@@ -9,7 +9,8 @@ var proxyDomains = [
     '.gravatar.',
     '.slideshare.',
     '.gitbook.',
-    '.wikipedia.'
+    '.wikipedia.',
+    '.jetbrains.'
 ];
 
 
